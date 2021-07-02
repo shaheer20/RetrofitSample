@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="server_not_available">Server not available</string>
+</resources>
